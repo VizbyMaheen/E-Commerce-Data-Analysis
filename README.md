@@ -1,4 +1,4 @@
-# E-Commerce-Data-Analysis
+# E-Commerce Data Analysis
 🛒 Project Title & Purpose
 This interactive Power BI dashboard provides a clear, high-level overview of overall sales performance, profitability, and regional distribution for an e-commerce business. It is designed to help stakeholders track sales trends over time, compare category margins, and make data-driven decisions to boost revenue and profitability.
 
